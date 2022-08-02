@@ -1,0 +1,15 @@
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\bin\Debug\netstandard2.0\Myapp.deps.json
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\bin\Debug\netstandard2.0\Myapp.dll
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\bin\Debug\netstandard2.0\ref\Myapp.dll
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\bin\Debug\netstandard2.0\Myapp.pdb
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\obj\Debug\netstandard2.0\Myapp.csproj.AssemblyReference.cache
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\obj\Debug\netstandard2.0\Myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\obj\Debug\netstandard2.0\Myapp.AssemblyInfoInputs.cache
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\obj\Debug\netstandard2.0\Myapp.AssemblyInfo.cs
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\obj\Debug\netstandard2.0\Myapp.csproj.CoreCompileInputs.cache
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\obj\Debug\netstandard2.0\Myapp.dll
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\obj\Debug\netstandard2.0\ref\Myapp.dll
+C:\Users\Thanos\source\repos\Myapp\Myapp\Myapp\obj\Debug\netstandard2.0\Myapp.pdb
